@@ -1,7 +1,0 @@
-holidays/response/ResponseHoliday.class
-holidays/Application.class
-holidays/json/JsonDateDeserializer.class
-holidays/model/Holidays.class
-holidays/model/Holiday.class
-holidays/controller/HolidaysController.class
-holidays/configuration/AppConfig.class
